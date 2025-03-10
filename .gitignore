@@ -1,0 +1,9 @@
+logs/*
+mysql_data/*
+html/vendor/*
+html/sites/default/files/css/*
+html/sites/default/files/js/*
+html/sites/default/files/languages/*
+html/sites/default/files/php/*
+html/sites/default/files/styles/*
+html/sites/default/files/translations/*
